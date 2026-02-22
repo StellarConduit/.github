@@ -218,7 +218,7 @@ StellarConduit is more than a protocol. It is a community of engineers, research
 - **GitHub Discussions** — technical questions, ideas, and proposals
 - **Twitter/X** — [@StellarConduit](https://twitter.com/StellarConduit)
 - **Discord** — [Join our server](#) *(coming soon)*
-- **Telegram** — [Dm on Telegram](t.me/mrwicks00) 
+- **Telegram** — [Dm on Telegram](https://t.me/mrwicks00) 
 
 ---
 
